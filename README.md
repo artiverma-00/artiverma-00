@@ -3,10 +3,9 @@
 
 Email Me 👉 ✉️ **vermaarti930@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** UI/UX design, HTML, CSS, JavaScript, and responsive web development
+- 🌱 **I’m currently learning:** UI/UX design, HTML, TailwindCSS, JavaScript, and responsive web development
 - 👯 **I’m looking to collaborate on:** Creative UI/UX projects and front-end web design for impactful, user-friendly products
-- 🤔 **I’m looking for help with:** Improving my design systems and enhancing user experience flows
-- 💬 **Ask me about:** Collaboration, UI/UX design, front-end development, and design tools like Figma 
+- 🤔 **I’m looking for help with:** Improving my design systems and enhancing user experience flows 
 - 📫 **How to reach me:** vermaarti930@gmail.com
 - ⚡ **Fun fact:** I can spend hours perfecting a pixel alignment without even realizing the time!
 
