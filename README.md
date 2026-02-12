@@ -15,8 +15,9 @@ Email Me 👉 ✉️ vermaarti930@gmail.com
 
 ⚡ Fun fact: Enjoy refining both backend logic and frontend design until every feature feels seamless and production-ready.
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=artiverma-00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=artiverma-00&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/artiverma7023) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/artiverma_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ui_ux0011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arti-verma-184899229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@69Artiverma1)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaarti930@gmail.com) 
 <!-- Snake Game Repo View -->
