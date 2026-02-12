@@ -1,13 +1,19 @@
-# 💫 Hi 👋, I'm Arti verma
-**A passionate Web devloper || UI/UX designer**
+💫 Hi 👋, I'm Arti Verma
 
-Email Me 👉 ✉️ **vermaarti930@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+A Passionate Full Stack Web Developer
 
-- 🌱 **I’m currently learning:** UI/UX design, HTML, TailwindCSS, JavaScript, and responsive web development
-- 👯 **I’m looking to collaborate on:** Creative UI/UX projects and front-end web design for impactful, user-friendly products
-- 🤔 **I’m looking for help with:** Improving my design systems and enhancing user experience flows 
-- 📫 **How to reach me:** vermaarti930@gmail.com
-- ⚡ **Fun fact:** I can spend hours perfecting a pixel alignment without even realizing the time!
+Email Me 👉 ✉️ vermaarti930@gmail.com
+ for collaboration, projects, or professional opportunities.
+
+🌱 Currently learning: Advanced backend architecture, system design, scalable APIs, and modern database optimization
+
+👯 Open to collaborate on: Full stack web applications, API-driven platforms, and scalable product-based projects
+
+🤝 Seeking to improve: Backend performance optimization, clean architecture patterns, and production-ready deployment practices
+
+📫 Reach me at: vermaarti930@gmail.com
+
+⚡ Fun fact: Enjoy refining both backend logic and frontend design until every feature feels seamless and production-ready.
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=artiverma-00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
