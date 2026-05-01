@@ -2,7 +2,6 @@
 
 A Passionate Full Stack Web Developer
 
-Email Me 👉 ✉️ vermaarti930@gmail.com
  for collaboration, projects, or professional opportunities.
 
 🌱 Currently learning: Advanced backend architecture, system design, scalable APIs, and modern database optimization
