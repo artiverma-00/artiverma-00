@@ -10,8 +10,6 @@ A Passionate Full Stack Web Developer
 
 🤝 Seeking to improve: Backend performance optimization, clean architecture patterns, and production-ready deployment practices
 
-📫 Reach me at: vermaarti930@gmail.com
-
 ⚡ Fun fact: Enjoy refining both backend logic and frontend design until every feature feels seamless and production-ready.
 
 ## 🌐 Socials:
